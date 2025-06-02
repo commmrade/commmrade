@@ -8,7 +8,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-- I’m currently working on WebLibrary, NeoTeo, (Kemul)[https://github.com/commmrade/kemul]
+- I’m currently working on WebLibrary, NeoTeo, [Kemul](https://github.com/commmrade/kemul)
 - I’m currently learning __C++__, __Rust__.
 - I’m looking to collaborate on anything!
 - How to reach me: __klewy__ on Discord
