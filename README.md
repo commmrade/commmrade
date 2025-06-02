@@ -47,3 +47,7 @@ You can use the website to generate badges: https://shields.io/
 <a href="https://github.com/zjayers/github-readme-stats">
    <img width="60%" alt="Commmrade's github stats" src="https://github-readme-stats.vercel.app/api?username=commmrade&show_icons=true&hide_border=true" />
 </a>
+
+---
+[![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=walleeva2018&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
+---
