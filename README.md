@@ -16,6 +16,7 @@ You can use the website to generate badges: https://shields.io/
 - I’m currently learning __C++__, __Rust__.
 - I’m looking to collaborate on anything!
 - How to reach me: __klewy__ on Discord
+- Currently living in the Russian Far East
 
 ---
 
