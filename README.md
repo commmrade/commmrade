@@ -38,8 +38,10 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
   <br />
-  <code><img width="30%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-  <code><img width="30%" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>
+  <code><img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Meson_%28software%29_logo_2019.svg"></code>
+  <code><img width="15%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Obsidian-Dark.svg"></code>
 </p>
 
 ---
