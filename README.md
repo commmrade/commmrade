@@ -4,6 +4,7 @@
 You can use the website to generate badges: https://shields.io/
 -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/commmrade)
+
 &nbsp;
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=200&width=435&lines=I+Love+C%2B%2B;And+Linux;And+I+hate+Rust)](https://git.io/typing-svg)
 <!-- Talking about you -->
