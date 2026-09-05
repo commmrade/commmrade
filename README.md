@@ -1,3 +1,3 @@
 ## commmrade
-aura farming.
-im batman
+pet-project farming.
+im spider-man
